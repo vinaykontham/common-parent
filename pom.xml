@@ -38,10 +38,10 @@
 
                 <!--Release repo URL for New Nexus
                      -->
-                <releases.distribution.url>${repo.server.protocol}://${repo.server.root}/${repo.path}/release/
+                <releases.distribution.url>${repo.server.protocol}://${repo.server.root}/${repo.path}/apiReleaseRepository/
                 </releases.distribution.url>
                 <!--Snapshot repo URL for New Nexus -->
-                <snapshot.distribution.url>${repo.server.protocol}://${repo.server.root}/${repo.path}/snapshot/
+                <snapshot.distribution.url>${repo.server.protocol}://${repo.server.root}/${repo.path}/apiSnapshotRepository/
                 </snapshot.distribution.url>
 
             </properties>
