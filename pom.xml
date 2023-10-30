@@ -33,8 +33,7 @@
                 <repo.server.protocol>http</repo.server.protocol>
                 <repo.server.root>172.19.0.1:8082</repo.server.root>
                 <repo.path>artifactory</repo.path>
-                <scmUsername/>
-                <scmPassword/>
+               
 
                 <!--Release repo URL for New Nexus
                      -->
